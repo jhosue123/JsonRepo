@@ -1,0 +1,9 @@
+use dbmoon
+select * from productos;
+select * from categorias;
+
+insert into categorias(nombre) values 
+('gaseosa');
+insert into productos(producto_id,nombre,cantidad,marca,precio,stock,categoria_categoria_Id)
+values
+(1,'gaseosa',10,'inka kola',1.00,1,1);
