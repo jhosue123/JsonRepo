@@ -1,0 +1,171 @@
+[{
+    "productoId": "1",
+    "nombre": "Vape Pen 22",
+    "marca": "Smoke",
+    "precio": 150.0,
+    "stock": 50,
+    "imagen":"https://http2.mlstatic.com/D_NQ_NP_702229-MPE43519868673_092020-V.jpg",
+    "categoria": {
+      "categoriaId": "2",
+      "nombre": "Intermedio"
+    }
+  },
+
+{
+    "productoId": "2",
+    "nombre": "Vape Pen 22 colors",
+    "marca": "Smoke",
+    "precio": 160.0,
+    "stock": 50,
+    "imagen":"https://cdn.shopify.com/s/files/1/2383/4135/product/VAPE_PEN_V2_kit_7Color.jpg?v=1606933678",
+    "categoria": {
+      "categoriaId": "2",
+      "nombre": "Intermedio"
+    }
+  },
+  {
+    "productoId": "3",
+    "nombre": "Vape Pen 22 black",
+    "marca": "Smoke",
+    "precio": 160.0,
+    "stock": 50,
+    "imagen":"https://media.4rgos.it/s/Argos/1972278_R_SET?$Main768$&w=620&h=620",
+    "categoria": {
+      "categoriaId": "2",
+      "nombre": "Intermedio"
+    }
+  },
+  {
+    "productoId": "4",
+    "nombre": "Vape Aegis Legend Kit Black Orange",
+    "marca": "Aegis",
+    "precio": 260.0,
+    "stock": 50,
+    "imagen":"https://vaperoyalty.com/wp-content/uploads/csm/server6000/h4q06/products/2367/images/15709/Geek_Vape_Aegis_Legend_Kit_Black_Orange__30999.1527195939.1280.1280.jpgc-2.jpg",
+    "categoria": {
+      "categoriaId": "3",
+      "nombre": "Avanzado"
+    }
+  },
+  {
+    "productoId": "5",
+    "nombre": "Vape OrangeBlack 500",
+    "marca": "Smoke",
+    "precio": 360.0,
+    "stock": 20,
+    "imagen":"https://s3-eu-west-1.amazonaws.com/nucig/SMOK/AL85/al85-kit-OrangeBlack-500.jpg",
+    "categoria": {
+      "categoriaId": "3",
+      "nombre": "Avanzado"
+    }
+  },
+  {
+    "productoId": "6",
+    "nombre": "Liquid",
+    "marca": "Bantam",
+    "precio": 60.0,
+    "stock": 60,
+    "imagen":"https://vapesmokeonline.com/wp-content/uploads/2021/11/slider_1.png",
+    "categoria": {
+      "categoriaId": "4",
+      "nombre": "Accesorios"
+    }
+  },
+  {
+    "productoId": "7",
+    "nombre": "nozzles",
+    "marca": "Smoke",
+    "precio": 160.0,
+    "stock": 50,
+    "imagen":"https://http2.mlstatic.com/D_NQ_NP_793912-MPE32068070772_092019-V.jpg",
+    "categoria": {
+      "categoriaId": "4",
+      "nombre": "Acessorios"
+    }
+  },
+  {
+    "productoId": "8",
+    "nombre": "Vape Pen 23",
+    "marca": "Smoke",
+    "precio": 160.0,
+    "stock": 50,
+    "imagen":"https://http2.mlstatic.com/D_NQ_NP_803546-MPE42093637330_062020-V.jpg",
+    "categoria": {
+      "categoriaId": "2",
+      "nombre": "Intermedio"
+    }
+  },
+    {
+    "productoId": "9",
+    "nombre": "Vape Pen 22 + Liquid",
+    "marca": "Smoke",
+    "precio": 260.0,
+    "stock": 50,
+    "imagen":"https://http2.mlstatic.com/D_NQ_NP_763924-MCO31032206839_062019-O.jpg",
+    "categoria": {
+      "categoriaId": "2",
+      "nombre": "Intermedio"
+    }
+  },
+    {
+    "productoId": "10",
+    "nombre": "Vape M10",
+    "marca": "M10",
+    "precio": 80.0,
+    "stock": 70,
+    "imagen":"https://my-live-05.slatic.net/p/c038f9db977282b0ee66f52d48e28231.jpg_720x720q80.jpg_.webp",
+    "categoria": {
+      "categoriaId": "1",
+      "nombre": "Principiante"
+    }
+  },
+    {
+    "productoId": "11",
+    "nombre": "Vape POD RED",
+    "marca": "TIS",
+    "precio": 95.0,
+    "stock": 50,
+    "imagen":"https://vapeorb.com/wp-content/uploads/2021/09/TIS-Pod-Red.jpg",
+    "categoria": {
+      "categoriaId": "1",
+      "nombre": "Principiante"
+    }
+  },   
+  {
+    "productoId": "12",
+    "nombre": "Vape Care RED",
+    "marca": "ZERO",
+    "precio": 105.0,
+    "stock": 50,
+    "imagen":"https://my-test-11.slatic.net/p/fae78d00c06170a1d053b0c89590d1c1.png",
+    "categoria": {
+      "categoriaId": "1",
+      "nombre": "Principiante"
+    }
+  },    
+  {
+    "productoId": "12",
+    "nombre": "Vape Green Care",
+    "marca": "ZERO",
+    "precio": 105.0,
+    "stock": 50,
+    "imagen":"https://rbimportados.com.py/wp-content/uploads/2021/04/Zero-Green-Care1.png",
+    "categoria": {
+      "categoriaId": "1",
+      "nombre": "Principiante"
+    }
+  },
+    {
+    "productoId": "12",
+    "nombre": "Vape rainbow Care",
+    "marca": "ZERO",
+    "precio": 105.0,
+    "stock": 50,
+    "imagen":"https://www.vaporesso.com/hubfs/imgs/product_img/zero/new/color/color-rainbow.png",
+    "categoria": {
+      "categoriaId": "1",
+      "nombre": "Principiante"
+    }
+  }
+  
+]
