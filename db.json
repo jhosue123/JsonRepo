@@ -3,40 +3,40 @@
   
     "nombre": "nozzles",
     "marca": "Smoke",
-    "precio": 160,
-    "stock": 50,
+       "precio": "S./ 150.00",
+    "stock": "50 Uni",
     "imagen": "https://http2.mlstatic.com/D_NQ_NP_793912-MPE32068070772_092019-V.jpg"
   },
   {
    
     "nombre": "UWELL CALIBURN G / KOKO PRIME COIL",
     "marca": "UWELL",
-    "precio": 160,
-    "stock": 50,
+       "precio": "S./ 129.00",
+    "stock": "50 Uni",
     "imagen": "https://d20f60vzbd93dl.cloudfront.net/uploads/tienda_010279/tienda_010279_579e0bc2651faafcf579f221754ff2d7834dfa2a_producto_large_90.jpg"
   },
   {
     
     "nombre": "COTTON HOLY FIBER",
     "marca": "HOLY FIBER",
-    "precio": 80,
-    "stock": 70,
+       "precio": "S./ 160.00",
+    "stock": "58 Uni",
     "imagen": "https://d20f60vzbd93dl.cloudfront.net/uploads/tienda_010279/tienda_010279_01266ee04bf4faab9d7523f9082d2cc0acb9db73_producto_large_90.jpg"
   },
   {
     
     "nombre": "DOVPO BLOTTO MINI RTA",
     "marca": "DOVPO",
-    "precio": 130,
-    "stock": 10,
+    "precio": "S./ 260.00",
+    "stock": "50 Uni",
     "imagen": "https://d20f60vzbd93dl.cloudfront.net/uploads/tienda_010279/tienda_010279_58cbd28d394e660e5bdd1270c2949c48a593b474_producto_large_90.jpg"
   },
   {
  
     "nombre": "VANDY VAPE KYLIN MINI V2 RTA",
     "marca": "VANDY VAPE",
-    "precio": 130,
-    "stock": 10,
+    "precio": "S./ 260.00",
+    "stock": "50 Uni",
     "imagen": "https://d20f60vzbd93dl.cloudfront.net/uploads/tienda_010279/tienda_010279_f1ca91f83faf2897dd483172e01d537561a40d6e_producto_large_90.jpg"
    
   },
@@ -46,7 +46,7 @@
     "marca": "BACON PRIME",
     "precio": "S./ 25.00",
     "stock": "10 Uni",
-    "imagen": "https://d20f60vzbd93dl.cloudfront.net/uploads/tienda_010279/tienda_010279_58cbd28d394e660e5bdd1270c2949c48a593b474_producto_large_90.jpg",
+    "imagen": "https://d20f60vzbd93dl.cloudfront.net/uploads/tienda_010279/tienda_010279_58cbd28d394e660e5bdd1270c2949c48a593b474_producto_large_90.jpg"
   
   },
       {
@@ -55,16 +55,16 @@
     "marca": "SAM ROCK",
     "precio": "S./ 30.00",
     "stock": "10 Uni",
-    "imagen": "https://d20f60vzbd93dl.cloudfront.net/uploads/tienda_010279/tienda_010279_08192428b70cf01b59d62e0d6cf795eac87d3118_producto_large_90.jpg",
+    "imagen": "https://d20f60vzbd93dl.cloudfront.net/uploads/tienda_010279/tienda_010279_08192428b70cf01b59d62e0d6cf795eac87d3118_producto_large_90.jpg"
  
   },
-        {
+  {
    
     "nombre": "GEEKVAPE AEGIS BOOST PLUS / PRO RDTA",
     "marca": "GEEKVAPE",
     "precio": "S./ 70.00",
     "stock": "10 Uni",
-    "imagen": "https://d20f60vzbd93dl.cloudfront.net/uploads/tienda_010279/tienda_010279_b937a093f9ddcdc2fc87a60301a208861cbae9af_producto_large_90.jpg",
+    "imagen": "https://d20f60vzbd93dl.cloudfront.net/uploads/tienda_010279/tienda_010279_b937a093f9ddcdc2fc87a60301a208861cbae9af_producto_large_90.jpg"
   
   }
     
@@ -74,40 +74,40 @@
 
     "nombre": "Vape Pen 22",
     "marca": "Smoke",
-    "precio": 150,
-    "stock": 50,
+   "precio": "S./ 200.00",
+    "stock": "30 Uni",
     "imagen": "https://http2.mlstatic.com/D_NQ_NP_702229-MPE43519868673_092020-V.jpg"
   },
   {
 
     "nombre": "NEVOKS PAGEE POD KIT",
     "marca": "NEVOKS",
-    "precio": 129,
-    "stock": 50,
+     "precio": "S./ 353.00",
+    "stock": "30 Uni",
     "imagen": "https://d20f60vzbd93dl.cloudfront.net/uploads/tienda_010279/tienda_010279_43baa1954de59836c4f1aaacbb4fd028f804862d_producto_large_90.jpg"
   },
   {
   
     "nombre": "Vape Pen 22 black",
     "marca": "Smoke",
-    "precio": 160,
-    "stock": 50,
+       "precio": "S./ 353.00",
+    "stock": "30 Uni",
     "imagen": "https://media.4rgos.it/s/Argos/1972278_R_SET?$Main768$&w=620&h=620"
   },
   {
  
     "nombre": "Vape Aegis Legend Kit Black Orange",
     "marca": "Aegis",
-    "precio": 260,
-    "stock": 50,
+    "precio": "S./ 30.00",
+    "stock": "10 Uni",
     "imagen": "https://vaperoyalty.com/wp-content/uploads/csm/server6000/h4q06/products/2367/images/15709/Geek_Vape_Aegis_Legend_Kit_Black_Orange__30999.1527195939.1280.1280.jpgc-2.jpg"
   },
   {
   
     "nombre": "VAPORESSO TARGET 80 KIT TANK EDITION",
     "marca": "VAPORESSO",
-    "precio": 229,
-    "stock": 20,
+    "precio": "S./ 70.00",
+    "stock": "50 Uni",
     "imagen": "https://d20f60vzbd93dl.cloudfront.net/uploads/tienda_010279/tienda_010279_9dbbb6fc9569b38edfd1408bd021f5f08955178a_producto_large_90.jpg"
   },
     {
@@ -116,7 +116,7 @@
     "marca": "GEEKVAPE",
     "precio": "S./ 200.00",
     "stock": "30 Uni",
-    "imagen": "https://d20f60vzbd93dl.cloudfront.net/uploads/tienda_010279/tienda_010279_fa16ee388326fe52039af43387f67a285dbc73f1_producto_large_90.jpg",
+    "imagen": "https://d20f60vzbd93dl.cloudfront.net/uploads/tienda_010279/tienda_010279_fa16ee388326fe52039af43387f67a285dbc73f1_producto_large_90.jpg"
 
 
   },
@@ -126,7 +126,7 @@
     "marca": "GEEKVAPE",
     "precio": "S./ 353.00",
     "stock": "30 Uni",
-    "imagen": "https://d20f60vzbd93dl.cloudfront.net/uploads/tienda_010279/tienda_010279_20b7392936ec8bcae8707dbf227dd583a1b10bb5_producto_large_90.jpg",
+    "imagen": "https://d20f60vzbd93dl.cloudfront.net/uploads/tienda_010279/tienda_010279_20b7392936ec8bcae8707dbf227dd583a1b10bb5_producto_large_90.jpg"
 
   }
     
@@ -136,39 +136,40 @@
 
     "nombre": "Vape Pen 22 + Liquid",
     "marca": "Smoke",
-    "precio": 260,
-    "stock": 50,
+   "precio": "S./ 80.00",
+    "stock": "70 Uni",
     "imagen": "https://http2.mlstatic.com/D_NQ_NP_763924-MCO31032206839_062019-O.jpg"
   },
   {
 
     "nombre": "VOOPOO DORIC 60 KIT + LIQUIDIN 30 ML",
     "marca": "VOOPOO",
-    "precio": 144,
-    "stock": 50,
+  "precio": "S./ 260.00",
+    "stock": "50 Uni",
     "imagen": "https://d20f60vzbd93dl.cloudfront.net/uploads/tienda_010279/tienda_010279_fa60c3e06215ca76285b82944d8722051d0b7c93_producto_large_90.jpg"
   },
   {
 
     "nombre": "VOOPOO DRAG 3 TPP X + 2 BATERIAS GOLISI G25",
     "marca": "VOOPOO",
-    "precio": 160,
-    "stock": 50,
+   "precio": "S./ 130.00",
+    "stock": "10 Uni",
     "imagen": "https://d20f60vzbd93dl.cloudfront.net/uploads/tienda_010279/tienda_010279_7396ad5faccfd3a616977dfb35352841e06d8e62_producto_large_90.jpg"
   },
   {
 
     "nombre": "GORRO THEFINEST + 3 ELIQUIDS 60 ML",
     "marca": "THEFINEST",
-    "precio": 130,
-    "stock": 50,
+   "precio": "S./ 260.00",
+    "stock": "50 Uni",
     "imagen": "https://d20f60vzbd93dl.cloudfront.net/uploads/tienda_010279/tienda_010279_aa0cf08382a9b8da1dcd73fd922a4d6dfd10473e_producto_large_90.jpg"
   },
   {
-    "nombre": "VOOPOO DRAG 3 KIT + BATERIAS GOLISI G25 2500 MAH",
+    "
+    "nombre": "VOOPO DRAG 3 KIT + BATERIAS GOLISI G25 2500MAH",
     "marca": "GEEKVAPE",
-    "precio": 353,
-    "stock": 30,
+       "precio": "S./ 144.00",
+    "stock": "50 Uni",
     "imagen": "https://d20f60vzbd93dl.cloudfront.net/uploads/tienda_010279/tienda_010279_5306bee1f7120d473fbff236124e0abbc4b3a335_producto_large_90.jpg"
   }
     
@@ -178,32 +179,32 @@
 
     "nombre": "Liquid",
     "marca": "Bantam",
-    "precio": 60,
-    "stock": 60,
+      "precio": "S./ 144.00",
+    "stock": "50 Uni",
     "imagen": "https://vapesmokeonline.com/wp-content/uploads/2021/11/slider_1.png"
   },
   {
 
     "nombre": "KING CREST DON JUAN CHURRO 120 ML",
     "marca": "KING CREST",
-    "precio": 70,
-    "stock": 50,
+    "precio": "S./ 160.00",
+    "stock": "50 Uni",
     "imagen": "https://d20f60vzbd93dl.cloudfront.net/uploads/tienda_010279/tienda_010279_af60b8188837b7342532a3e95d42a53da3dd2f09_producto_large_90.jpg"
   },
   {
 
     "nombre": "ELIQUID DROP RAMSES 60 ML",
     "marca": "DROP",
-    "precio": 70,
-    "stock": 50,
+    "precio": "S./ 130.00",
+    "stock": "50 Uni",
     "imagen": "https://d20f60vzbd93dl.cloudfront.net/uploads/tienda_010279/tienda_010279_241e8f230b1695b6c6d54efae700449cd28ea404_producto_large_90.jpg"
   },
   {
  
     "nombre": "VAPETASIA PINEAPPLE EXPRESS 100 ML",
     "marca": "VAPETASIA",
-    "precio": 55,
-    "stock": 30,
+      "precio": "S./ 70.00",
+    "stock": "10 Uni",
     "imagen": "https://d20f60vzbd93dl.cloudfront.net/uploads/tienda_010279/tienda_010279_499be3c143c2ab9e1dda94f9b76c083f899d99a1_producto_large_90.jpg"
     
   },
@@ -211,8 +212,8 @@
 
     "nombre": "CLOUDS NURDZ GRAPE APPLE 100 ML",
     "marca": "CLOUDS NURDZ",
-    "precio": 65,
-    "stock": 20,
+   "precio": "S./ 40.00",
+    "stock": "50 Uni",
     "imagen": "https://d20f60vzbd93dl.cloudfront.net/uploads/tienda_010279/tienda_010279_d4e4f0450e1395d92d85c62129ad10299d82fa65_producto_large_90.jpg"
     
   },
@@ -231,7 +232,7 @@
     "marca": "MR FREEZE",
     "precio": "S./ 60.00",
     "stock": "50 Uni",
-    "imagen": "https://d20f60vzbd93dl.cloudfront.net/uploads/tienda_010279/tienda_010279_2d7b06d440cfc61b36d968103975667ea953a2d9_producto_large_90.jpg",
+    "imagen": "https://d20f60vzbd93dl.cloudfront.net/uploads/tienda_010279/tienda_010279_2d7b06d440cfc61b36d968103975667ea953a2d9_producto_large_90.jpg"
    
   },
       {
@@ -240,14 +241,12 @@
     "marca": "THEFINEST",
     "precio": "S./ 40.00",
     "stock": "50 Uni",
-    "imagen": "https://d20f60vzbd93dl.cloudfront.net/uploads/tienda_010279/tienda_010279_3cbc725b1e688b06ccf9ba119d030e9b5ce195d9_producto_large_90.jpg",
+    "imagen": "https://d20f60vzbd93dl.cloudfront.net/uploads/tienda_010279/tienda_010279_3cbc725b1e688b06ccf9ba119d030e9b5ce195d9_producto_large_90.jpg"
 
   }
     
  ]
 }
-
-
 
 
 
