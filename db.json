@@ -1,15 +1,5 @@
 
-{
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  },
-  "listar_accesorios": [
+{ "listar_accesorios": [
     {
     "productoId": "11",
     "nombre": "nozzles",
