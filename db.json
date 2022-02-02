@@ -1,3 +1,56 @@
+
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "listar_accesorios": [
+    {
+    "productoId": "11",
+    "nombre": "nozzles",
+    "marca": "Smoke",
+    "precio": 160,
+    "stock": 50,
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_793912-MPE32068070772_092019-V.jpg"
+  },
+  {
+    "productoId": "12",
+    "nombre": "UWELL CALIBURN G / KOKO PRIME COIL",
+    "marca": "UWELL",
+    "precio": 160,
+    "stock": 50,
+    "imagen": "https://d20f60vzbd93dl.cloudfront.net/uploads/tienda_010279/tienda_010279_579e0bc2651faafcf579f221754ff2d7834dfa2a_producto_large_90.jpg"
+  },
+  {
+    "productoId": "13",
+    "nombre": "COTTON HOLY FIBER",
+    "marca": "HOLY FIBER",
+    "precio": 80,
+    "stock": 70,
+    "imagen": "https://d20f60vzbd93dl.cloudfront.net/uploads/tienda_010279/tienda_010279_01266ee04bf4faab9d7523f9082d2cc0acb9db73_producto_large_90.jpg"
+  },
+  {
+    "productoId": "14",
+    "nombre": "DOVPO BLOTTO MINI RTA",
+    "marca": "DOVPO",
+    "precio": 130,
+    "stock": 10,
+    "imagen": "https://d20f60vzbd93dl.cloudfront.net/uploads/tienda_010279/tienda_010279_58cbd28d394e660e5bdd1270c2949c48a593b474_producto_large_90.jpg"
+  },
+  {
+    "productoId": "15",
+    "nombre": "VANDY VAPE KYLIN MINI V2 RTA",
+    "marca": "VANDY VAPE",
+    "precio": 130,
+    "stock": 10,
+    "imagen": "https://d20f60vzbd93dl.cloudfront.net/uploads/tienda_010279/tienda_010279_f1ca91f83faf2897dd483172e01d537561a40d6e_producto_large_90.jpg"
+   
+  }
     
 ],
   "listar_vapes": [
@@ -132,6 +185,8 @@
     
  ]
 }
+
+
 
 
 
